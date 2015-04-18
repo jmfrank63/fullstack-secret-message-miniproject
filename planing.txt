@@ -1,0 +1,8 @@
+Enter a sentence to encrypt
+Create a list of cities in alphabetical order in length of the sentence
+Copy each letter as a image to an image with a city name
+Add a random number in front of filenames
+Put all encrytped filenames in a folder
+Decrypt the filenames
+Put all decrypted filenames in a separate folder
+

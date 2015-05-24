@@ -1,4 +1,4 @@
-# secret-message-miniproject
+# fullstack-secret-message-miniproject
 Secret Message Mini Project for Udacity Full Stack Web Developer Nanodegree
 
 ### This repo was my first try to use python on the cloud 9 platform
